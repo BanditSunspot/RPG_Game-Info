@@ -1,0 +1,18 @@
+Actuelle (V1.2)
+
+Ajout d'une fenêtre pour voir ses stats (Interaction dans la page en cours de dev)
+Redisposition des fenêtres pour plus de simplicité dans l'interface
+
+V1.1
+
+Reset total des stats et inventaire du personnage lors de sa mort
+Modification d'un stockage d'equipement
+Ajout de la possibilité d'équiper et déséquiper les objets
+
+V1.0
+
+Amélioration des design des entités
+Nouvelles tuiles: Monde Forêt / Mondes Landes
+Ajout de nouvelles musiques de fond
+Ajout d'un inventaire
+Ajout d'un magasin
