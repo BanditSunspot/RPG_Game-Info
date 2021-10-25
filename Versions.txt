@@ -1,4 +1,11 @@
-Actuelle (V1.2)
+Actuelle (V1.3)
+
+Ajout d'une nouvelle police d'écriture
+Ajout d'un synopsis
+Sécurisation et encodage des datas en binaire, plus de facilité pour passer d'un OS à un autre
+Nouvelles tuiles: Monde Plaines / Monde Plaines Magiques / Monde Magma
+
+V1.2
 
 Ajout d'une fenêtre pour voir ses stats (Interaction dans la page en cours de dev)
 Redisposition des fenêtres pour plus de simplicité dans l'interface
@@ -12,7 +19,7 @@ Ajout de la possibilité d'équiper et déséquiper les objets
 V1.0
 
 Amélioration des design des entités
-Nouvelles tuiles: Monde Forêt / Mondes Landes
+Nouvelles tuiles: Monde Forêt / Monde Landes
 Ajout de nouvelles musiques de fond
 Ajout d'un inventaire
 Ajout d'un magasin
