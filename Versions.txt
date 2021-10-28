@@ -1,4 +1,35 @@
-Actuelle (V1.3)
+V1.4 (actuelle)
+
+Modifications des plaines magiques
+Ajout de nouveau monstres:
+Magma:
+	Golem de lave
+	Golem de feu
+	Elementaire de feu
+	Ifrit
+
+Foret:
+	Être Sylvain
+	Elfe
+	Goblin
+	Renard
+
+Landes:
+	Golem de terre
+	Golem de l'argile
+
+Plaines Magiques:
+	Licorne
+	Centaure
+	Fée
+	Minotaure
+
+Plaines:
+	Paysans
+	Bandit
+	Troll
+
+V1.3
 
 Ajout d'une nouvelle police d'écriture
 Ajout d'un synopsis
